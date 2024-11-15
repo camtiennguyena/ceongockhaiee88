@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Đỗ Ngọc Khải - CEO tại EE88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Đỗ Ngọc Khải <https://ee88vnn.com/tac-gia/dnkdongockhai>`_ từng là tuyển thủ Liên minh huyền thoại chuyên nghiệp. Giờ đây DNK một trong những nhà lãnh đạo nổi bật trong ngành cá cược trực tuyến, hiện đang giữ vai trò CEO tại EE88. DNK đã dẫn dắt EE88 trở thành một trong những nhà cái uy tín hàng đầu tại Việt Nam. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nhờ tầm nhìn chiến lược và khả năng lãnh đạo vượt trội, Đỗ Ngọc Khải đã giúp EE88 không ngừng cải tiến sản phẩm, mang đến những trải nghiệm đẳng cấp cho người chơi, đồng thời xây dựng mối quan hệ đối tác bền vững với các nhà cung cấp game hàng đầu thế giới.
 
-.. note::
+Ngày sinh: March 4, 2001 (age 23)
 
-   This project is under active development.
+Xem chi tiết tại: 
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Website: https://ee88vnn.com/tac-gia/dnkdongockhai 
